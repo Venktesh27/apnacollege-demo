@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Venktesh Kumar
+Author - <h2>Venktesh Kumar</h2>
